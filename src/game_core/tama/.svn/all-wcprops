@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/40/trunk/src/game_core/tama
+END
+spell_00_sonota.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_00_sonota.h
+END
+spell_00_zako.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_00_zako.h
+END
+laser_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/39/trunk/src/game_core/tama/laser_system.c
+END
+spell_01_chrno.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_01_chrno.h
+END
+spell_01_aya.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_01_aya.h
+END
+obj_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/39/trunk/src/game_core/tama/obj_system.c
+END
+spell_01_alice.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_01_alice.h
+END
+spell_01_rumia.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_01_rumia.h
+END
+spell_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_system.c
+END
+spell_01_pache.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_01_pache.h
+END
+spell_01_kaguya.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_01_kaguya.h
+END
+spell_01_remilia.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_01_remilia.h
+END
+spell_01_meirin.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_01_meirin.h
+END
+spell_01_mima.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_01_mima.h
+END
+spell_01_momiji.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_01_momiji.h
+END
+hatudan_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/39/trunk/src/game_core/tama/hatudan_system.c
+END
+spell_00_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_00_common.h
+END
+spell_01_ruiz.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_01_ruiz.h
+END
+spell_01_daiyousei.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_01_daiyousei.h
+END
+spell_01_sakuya.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/src/game_core/tama/spell_01_sakuya.h
+END

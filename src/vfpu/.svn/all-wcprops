@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/39/trunk/src/vfpu
+END
+math_atanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/vfpu/math_atanf.c
+END
+vfpu_quaternion_sample_hermite.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_quaternion_sample_hermite.c
+END
+vfpu_quaternion_from_euler.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_quaternion_from_euler.c
+END
+math_acosf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/vfpu/math_acosf.c
+END
+00vfpu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/39/trunk/src/vfpu/00vfpu.mak
+END
+math_sincos.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/37/trunk/src/vfpu/math_sincos.c
+END
+math_sinf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/37/trunk/src/vfpu/math_sinf.c
+END
+math_sqrtf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/vfpu/math_sqrtf.c
+END
+vfpu_add_vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_add_vector.c
+END
+vfpu_envmap_matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_envmap_matrix.c
+END
+math_expf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/37/trunk/src/vfpu/math_expf.c
+END
+vfpu_quaternion_to_matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_quaternion_to_matrix.c
+END
+math_atan1024i.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/37/trunk/src/vfpu/math_atan1024i.c
+END
+vfpu_perspective_matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_perspective_matrix.c
+END
+vfpu_identity_matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_identity_matrix.c
+END
+vfpu_quaternion_sample_linear.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_quaternion_sample_linear.c
+END
+vfpu_translate_matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_translate_matrix.c
+END
+vfpu_sphere_to_cartesian.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_sphere_to_cartesian.c
+END
+math_powf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/37/trunk/src/vfpu/math_powf.c
+END
+vfpu_quaternion_multiply.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_quaternion_multiply.c
+END
+cordic_atan65536.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/37/trunk/src/vfpu/cordic_atan65536.h
+END
+math_inv_sqrtf.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/37/trunk/src/vfpu/math_inv_sqrtf.c
+END
+vfpu_quaternion_sample_linear65536.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_quaternion_sample_linear65536.c
+END
+vfpu_ease_in_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_ease_in_out.c
+END
+math_tanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/37/trunk/src/vfpu/math_tanf.c
+END
+vfpu_quaternion_exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_quaternion_exp.c
+END
+vfpu_zero_vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_zero_vector.c
+END
+math_randf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/vfpu/math_randf.c
+END
+math_cosf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/37/trunk/src/vfpu/math_cosf.c
+END
+vfpu_ease_in_out65536.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_ease_in_out65536.c
+END
+math_fmodf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/vfpu/math_fmodf.c
+END
+vfpu_quaternion_normalize.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_quaternion_normalize.c
+END
+vfpu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/39/trunk/src/vfpu/vfpu.mak
+END
+math_roundf.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/37/trunk/src/vfpu/math_roundf.c
+END
+printMatrixFloat.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/37/trunk/src/vfpu/printMatrixFloat.c
+END
+psp_vfpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/37/trunk/src/vfpu/psp_vfpu.h
+END
+math_fminf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/vfpu/math_fminf.c
+END
+math_tanhf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/vfpu/math_tanhf.c
+END
+math_asinf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/vfpu/math_asinf.c
+END
+vfpu_scale_vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_scale_vector.c
+END
+math_fmaxf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/vfpu/math_fmaxf.c
+END
+math_coshf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/vfpu/math_coshf.c
+END
+vfpu_quaternion_ln.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_quaternion_ln.c
+END
+math_atan65536i.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/37/trunk/src/vfpu/math_atan65536i.c
+END
+vfpu_quaternion_copy.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_quaternion_copy.c
+END
+vfpu_ortho_matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_ortho_matrix.c
+END
+math_rands.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/vfpu/math_rands.c
+END
+math_sinhf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/vfpu/math_sinhf.c
+END
+00pspmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/37/trunk/src/vfpu/00pspmath.h
+END
+vfpu_normalize_vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_normalize_vector.c
+END
+vfpu_quaternion_hermite_tangent.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_quaternion_hermite_tangent.c
+END
+xxx_math_sini.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/37/trunk/src/vfpu/xxx_math_sini.c
+END
+math_atan2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/37/trunk/src/vfpu/math_atan2f.c
+END
+math_fabsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/37/trunk/src/vfpu/math_fabsf.c
+END
+math_rand_8888.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/37/trunk/src/vfpu/math_rand_8888.c
+END
+math_atan512i.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/37/trunk/src/vfpu/math_atan512i.c
+END
+vfpu_quaternion_identity.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/37/trunk/src/vfpu/vfpu_quaternion_identity.c
+END
+math_logf.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/37/trunk/src/vfpu/math_logf.c
+END

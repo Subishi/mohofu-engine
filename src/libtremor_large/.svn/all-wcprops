@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/39/trunk/src/libtremor_large
+END
+codec_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/37/trunk/src/libtremor_large/codec_internal.h
+END
+backends.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/37/trunk/src/libtremor_large/backends.h
+END
+sharedbook.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/37/trunk/src/libtremor_large/sharedbook.c
+END
+test_code00_ivorbisfile_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/37/trunk/src/libtremor_large/test_code00_ivorbisfile_example.c
+END
+framing.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/37/trunk/src/libtremor_large/framing.c
+END
+asm_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/37/trunk/src/libtremor_large/asm_arm.h
+END
+codebook.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/37/trunk/src/libtremor_large/codebook.c
+END
+mdct_lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/37/trunk/src/libtremor_large/mdct_lookup.h
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/37/trunk/src/libtremor_large/os.h
+END
+mdct.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/37/trunk/src/libtremor_large/mdct.c
+END
+synthesis.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/37/trunk/src/libtremor_large/synthesis.c
+END
+block.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/37/trunk/src/libtremor_large/block.c
+END
+codebook.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/37/trunk/src/libtremor_large/codebook.h
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/37/trunk/src/libtremor_large/info.c
+END
+mdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/37/trunk/src/libtremor_large/mdct.h
+END
+lsp_lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/37/trunk/src/libtremor_large/lsp_lookup.h
+END
+block.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/37/trunk/src/libtremor_large/block.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/37/trunk/src/libtremor_large/misc.h
+END
+floor0.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/src/libtremor_large/floor0.c
+END
+floor1.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/src/libtremor_large/floor1.c
+END
+os_types_lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/src/libtremor_large/os_types_lookup.h
+END
+vorbisfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/39/trunk/src/libtremor_large/vorbisfile.c
+END
+window_lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/37/trunk/src/libtremor_large/window_lookup.h
+END
+bitwise.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/37/trunk/src/libtremor_large/bitwise.c
+END
+window.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/src/libtremor_large/window.c
+END
+registry.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/37/trunk/src/libtremor_large/registry.c
+END
+mapping0.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/37/trunk/src/libtremor_large/mapping0.c
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/src/libtremor_large/window.h
+END
+res012.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/src/libtremor_large/res012.c
+END
+registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/37/trunk/src/libtremor_large/registry.h
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/src/game_core/draw/render
+END
+gu_render_score.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/39/trunk/src/game_core/draw/render/gu_render_score.h
+END
+gu_render_sprite_normal.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/39/trunk/src/game_core/draw/render/gu_render_sprite_normal.h
+END
+gu_render.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/38/trunk/src/game_core/draw/render/gu_render.h
+END
+gu_haikei_03_bg_fake_3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/39/trunk/src/game_core/draw/render/gu_haikei_03_bg_fake_3D.h
+END
+gu_render_boss_big_mahoujin.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/39/trunk/src/game_core/draw/render/gu_render_boss_big_mahoujin.h
+END
+gu_render_SDL_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/38/trunk/src/game_core/draw/render/gu_render_SDL_screen.h
+END
+gu_haikei_00_bg_2D_256.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/39/trunk/src/game_core/draw/render/gu_haikei_00_bg_2D_256.h
+END
+gu_render_tache_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/38/trunk/src/game_core/draw/render/gu_render_tache_screen.h
+END
+gu_render_serifu_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/38/trunk/src/game_core/draw/render/gu_render_serifu_window.h
+END
+gu_haikei_01_bg_3D_test01.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/39/trunk/src/game_core/draw/render/gu_haikei_01_bg_3D_test01.h
+END
+SDL_pause_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/40/trunk/src/game_core/draw/render/SDL_pause_filter.h
+END
+gu_haikei_01_bg_3D_test02.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/39/trunk/src/game_core/draw/render/gu_haikei_01_bg_3D_test02.h
+END
+gu_render_spell_logo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/38/trunk/src/game_core/draw/render/gu_render_spell_logo.h
+END
+gu_render_sprite_roz.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/39/trunk/src/game_core/draw/render/gu_render_sprite_roz.h
+END
+gu_render_kanji_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/38/trunk/src/game_core/draw/render/gu_render_kanji_system.h
+END
+gu_render_score_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/39/trunk/src/game_core/draw/render/gu_render_score_window.h
+END
+gu_render_laser_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/39/trunk/src/game_core/draw/render/gu_render_laser_test.h
+END
+gu_haikei_02_bg_eientei.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/39/trunk/src/game_core/draw/render/gu_haikei_02_bg_eientei.h
+END

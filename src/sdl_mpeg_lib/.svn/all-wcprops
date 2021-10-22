@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/40/trunk/src/sdl_mpeg_lib
+END
+MPEGsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/MPEGsystem.h
+END
+MPEGfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/MPEGfilter.h
+END
+MPEGstream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/MPEGstream.cpp
+END
+MPEGerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/MPEGerror.h
+END
+MPEGstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/MPEGstream.h
+END
+smpeg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/smpeg.cpp
+END
+MPEGaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/MPEGaudio.h
+END
+smpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/smpeg.h
+END
+MPEGvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/MPEGvideo.h
+END
+MPEGlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/MPEGlist.cpp
+END
+MPEG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/MPEG.cpp
+END
+MPEGlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/MPEGlist.h
+END
+MPEGaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/MPEGaction.h
+END
+MPEG.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/MPEG.h
+END
+MPEGsystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/MPEGsystem.cpp
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/39/trunk/src/PSPL/audio/mixer
+END
+wavestream.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/38/trunk/src/PSPL/audio/mixer/wavestream.h
+END
+mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/38/trunk/src/PSPL/audio/mixer/mixer.c
+END
+music_mad.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/38/trunk/src/PSPL/audio/mixer/music_mad.h
+END
+music_mixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/37/trunk/src/PSPL/audio/mixer/music_mixer.h
+END
+load_ogg.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/39/trunk/src/PSPL/audio/mixer/load_ogg.c
+END
+000SDL_mixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/38/trunk/src/PSPL/audio/mixer/000SDL_mixer.h
+END
+music_ogg.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/39/trunk/src/PSPL/audio/mixer/music_ogg.c
+END
+wavestream.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/39/trunk/src/PSPL/audio/mixer/wavestream.c
+END
+music_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/38/trunk/src/PSPL/audio/mixer/music_mod.c
+END
+load_ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/38/trunk/src/PSPL/audio/mixer/load_ogg.h
+END
+music.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/39/trunk/src/PSPL/audio/mixer/music.c
+END
+music_mad.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/38/trunk/src/PSPL/audio/mixer/music_mad.c
+END
+music_ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/38/trunk/src/PSPL/audio/mixer/music_ogg.h
+END
+music_effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/37/trunk/src/PSPL/audio/mixer/music_effect.h
+END

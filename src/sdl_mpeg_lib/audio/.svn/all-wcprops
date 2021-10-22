@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/40/trunk/src/sdl_mpeg_lib/audio
+END
+mpeglayer3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/audio/mpeglayer3.cpp
+END
+MPEGaudio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/src/sdl_mpeg_lib/audio/MPEGaudio.cpp
+END
+mpegtable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/audio/mpegtable.cpp
+END
+hufftable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/audio/hufftable.cpp
+END
+mpegtoraw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/trunk/src/sdl_mpeg_lib/audio/mpegtoraw.cpp
+END
+filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/audio/filter.cpp
+END
+bitwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/audio/bitwindow.cpp
+END
+mpeglayer1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/audio/mpeglayer1.cpp
+END
+filter_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/audio/filter_2.cpp
+END
+mpeglayer2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/37/trunk/src/sdl_mpeg_lib/audio/mpeglayer2.cpp
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/38/trunk/src/alegrex
+END
+memset32_uncached.S
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/38/trunk/src/alegrex/memset32_uncached.S
+END
+tiny_strcmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/38/trunk/src/alegrex/tiny_strcmp.S
+END
+disable_fpu_exeptions.S
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/38/trunk/src/alegrex/disable_fpu_exeptions.S
+END
+alegrex.mak
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/37/trunk/src/alegrex/alegrex.mak
+END
+memset32.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/38/trunk/src/alegrex/memset32.S
+END
+memcpy32.S
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/38/trunk/src/alegrex/memcpy32.S
+END

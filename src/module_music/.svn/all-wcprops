@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/40/trunk/src/module_music
+END
+load_xm_inc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/39/trunk/src/module_music/load_xm_inc.h
+END
+mloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/39/trunk/src/module_music/mloader.c
+END
+mmerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/39/trunk/src/module_music/mmerror.c
+END
+mmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/38/trunk/src/module_music/mmalloc.c
+END
+munitrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/38/trunk/src/module_music/munitrk.c
+END
+voice_loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/39/trunk/src/module_music/voice_loader.c
+END
+mohou_mikmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/39/trunk/src/module_music/mohou_mikmod.h
+END
+load_s3m_inc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/39/trunk/src/module_music/load_s3m_inc.h
+END
+mmio.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/39/trunk/src/module_music/mmio.c
+END
+virtch32.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/40/trunk/src/module_music/virtch32.c
+END
+mlutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/39/trunk/src/module_music/mlutil.c
+END
+music_loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/39/trunk/src/module_music/music_loader.c
+END
+mdriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/39/trunk/src/module_music/mdriver.c
+END
+virtch_reverb.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/38/trunk/src/module_music/virtch_reverb.h
+END
+load_it_inc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/39/trunk/src/module_music/load_it_inc.h
+END
+mplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/39/trunk/src/module_music/mplayer.c
+END
+module_music.mak
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/37/trunk/src/module_music/module_music.mak
+END
+mohou_mikmod_internals.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/39/trunk/src/module_music/mohou_mikmod_internals.h
+END
+load_mod_inc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/39/trunk/src/module_music/load_mod_inc.h
+END

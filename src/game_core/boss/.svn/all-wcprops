@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/40/trunk/src/game_core/boss
+END
+option_40_aya_momiji01.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/39/trunk/src/game_core/boss/option_40_aya_momiji01.c
+END
+boss.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/39/trunk/src/game_core/boss/boss.h
+END
+boss_move.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/39/trunk/src/game_core/boss/boss_move.c
+END
+option_41_aya_momiji02.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/39/trunk/src/game_core/boss/option_41_aya_momiji02.c
+END
+boss_all.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/40/trunk/src/game_core/boss/boss_all.c
+END
+boss_card.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/src/game_core/boss/boss_card.c
+END
+boss_tukaima.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/src/game_core/boss/boss_tukaima.c
+END
+boss_support.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/40/trunk/src/game_core/boss/boss_support.c
+END
+card_address.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/39/trunk/src/game_core/boss/card_address.h
+END
+card_resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/39/trunk/src/game_core/boss/card_resource.h
+END
+option_10_alice_zako_doll_type_b.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/39/trunk/src/game_core/boss/option_10_alice_zako_doll_type_b.c
+END
+option_11_alice_zako_doll_type_a.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/39/trunk/src/game_core/boss/option_11_alice_zako_doll_type_a.c
+END
